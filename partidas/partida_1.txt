@@ -1,0 +1,4 @@
+jugador=Manuel
+nivel=10
+puntuacion=5
+fecha=2026-11-04T17:59:32.269397
